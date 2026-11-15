@@ -1,0 +1,98 @@
+[
+  {
+    "id": "GAMC-01",
+    "nombre": "Torrentera Taquiña (Tiquipaya / D-13)",
+    "distrito": "Tiquipaya / D-13",
+    "lat": -17.336,
+    "lng": -66.215,
+    "pendienteDEM": 0.89,
+    "saturacionSAR": 0.84,
+    "poblacionExpuesta": 14500,
+    "historialGAMC": "Flujo de detritos y mazamorra (2018, 2020). Alta acumulación de material suelto en cuenca alta.",
+    "protocolo": "Evacuación preventiva en franja de seguridad (50m) y despliegue de maquinaria pesada en puente Taquiña."
+  },
+  {
+    "id": "GAMC-02",
+    "nombre": "Torrentera Pintumayu (Zona Norte / D-2)",
+    "distrito": "Distrito 2",
+    "lat": -17.352,
+    "lng": -66.158,
+    "pendienteDEM": 0.81,
+    "saturacionSAR": 0.76,
+    "poblacionExpuesta": 9800,
+    "historialGAMC": "Arrastre de sedimentos y obstrucción en bóvedas de Av. América y Circunvalación.",
+    "protocolo": "Descolmatación inmediata de disipadores de energía y corte vehicular preventivo en pasos a desnivel."
+  },
+  {
+    "id": "GAMC-03",
+    "nombre": "Torrentera Pajcha (Cala Cala / D-1)",
+    "distrito": "Distrito 1",
+    "lat": -17.358,
+    "lng": -66.169,
+    "pendienteDEM": 0.74,
+    "saturacionSAR": 0.68,
+    "poblacionExpuesta": 8400,
+    "historialGAMC": "Desborde pluvial e inundación de vías residenciales por colapso de colectores.",
+    "protocolo": "Apertura de compuertas de alivio y alerta temprana a OTBs de Cala Cala Norte."
+  },
+  {
+    "id": "GAMC-04",
+    "nombre": "Cota 2.750 - Parque Nacional Tunari (Tirani)",
+    "distrito": "Distrito 2 / Área Protegida",
+    "lat": -17.331,
+    "lng": -66.145,
+    "pendienteDEM": 0.92,
+    "saturacionSAR": 0.80,
+    "poblacionExpuesta": 6200,
+    "historialGAMC": "Inestabilidad de taludes por asentamientos en franja de amortiguamiento y deforestación.",
+    "protocolo": "Monitoreo interferométrico continuo y restricción de tránsito en caminos de ladera."
+  },
+  {
+    "id": "GAMC-05",
+    "nombre": "Torrentera Chijllawiri (Quillacollo / Linde)",
+    "distrito": "Límite Municipal Oeste",
+    "lat": -17.365,
+    "lng": -66.242,
+    "pendienteDEM": 0.78,
+    "saturacionSAR": 0.72,
+    "poblacionExpuesta": 11300,
+    "historialGAMC": "Crecida súbita por tormentas convectivas en cabecera de cuenca.",
+    "protocolo": "Activación de alarmas comunitarias y resguardo de puentes vehiculares."
+  },
+  {
+    "id": "GAMC-06",
+    "nombre": "Ladera Valle Hermoso / K'ara K'ara (D-8)",
+    "distrito": "Distrito 8",
+    "lat": -17.442,
+    "lng": -66.131,
+    "pendienteDEM": 0.67,
+    "saturacionSAR": 0.71,
+    "poblacionExpuesta": 12900,
+    "historialGAMC": "Deslizamiento rotacional de suelos arcillosos saturados y grietas en viviendas.",
+    "protocolo": "Inspección geotécnica de emergencia, drenaje de escorrentía superficial y evacuación puntual."
+  },
+  {
+    "id": "GAMC-07",
+    "nombre": "Torrentera Cantarrana / Huayllani (Sacaba)",
+    "distrito": "Eje Metropolitano Este",
+    "lat": -17.372,
+    "lng": -66.085,
+    "pendienteDEM": 0.83,
+    "saturacionSAR": 0.74,
+    "poblacionExpuesta": 10400,
+    "historialGAMC": "Inundación de áreas urbanas consolidadas por arrastre de material pétreo.",
+    "protocolo": "Alertar a UGR metropolitana y habilitar albergues temporales en unidades educativas cercanas."
+  },
+  {
+    "id": "GAMC-08",
+    "nombre": "Confluencia Río Rocha - Puente Quillacollo (D-4)",
+    "distrito": "Distrito 4",
+    "lat": -17.398,
+    "lng": -66.178,
+    "pendienteDEM": 0.45,
+    "saturacionSAR": 0.85,
+    "poblacionExpuesta": 15600,
+    "historialGAMC": "Anegamiento por ascenso de nivel freático y descarga simultánea de torrenteras norte.",
+    "protocolo": "Cierre de ciclovía y vías ribereñas; bombeo en pasos a desnivel."
+  }
+]
